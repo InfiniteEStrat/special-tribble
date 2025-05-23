@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Infinite E-strategies & Solutions</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      background-color: #f9fafc;
+      color: #222;
+    }
+    header {
+      background-color: #2b3e6c;
+      color: white;
+      padding: 50px 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #1d2e50;
+      display: flex;
+      justify-content: center;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      margin: 0 20px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    main {
+      padding: 40px 20px;
+      max-width: 960px;
+      margin: auto;
+    }
+    section {
+      margin-bottom: 50px;
+    }
+    .services ul {
+      list-style: square;
+      padding-left: 20px;
+    }
+    footer {
+      background-color: #2b3e6c;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Infinite E-strategies & Solutions</h1>
+    <p>Your Expert Partner for Amazon Support</p>
+  </header>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#faqs">FAQs</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <main>
+    <section id="about">
+      <h2>About Us</h2>
+      <p>We help Amazon sellers and customers navigate account issues, listing problems, and policy violations. With years of experience in e-commerce, we're your go-to resource for resolving problems and boosting success on Amazon.</p>
+    </section>
+
+    <section id="services" class="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>Amazon Seller Account Reinstatement Help</li>
+        <li>Policy Violation and Suspension Guidance</li>
+        <li>FBA Shipping & Inventory Troubleshooting</li>
+        <li>Listing Optimization & SEO</li>
+        <li>Customer Dispute Assistance</li>
+        <li>Amazon Terms of Service Consulting</li>
+      </ul>
+    </section>
+
+    <section id="faqs">
+      <h2>FAQs</h2>
+      <p><strong>Q:</strong> My seller account is suspended. Can you help?<br>
+      <strong>A:</strong> Yes! We specialize in appeal strategies and supporting documentation to get your account back.</p>
+
+      <p><strong>Q:</strong> Amazon lost my FBA shipment. What should I do?<br>
+      <strong>A:</strong> We can guide you through reimbursement claims and documentation.</p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Email: <a href="mailto:support@infiniteestrategies.com">support@infiniteestrategies.com</a></p>
+      <p>Need urgent help? <strong>Live chat coming soon!</strong></p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Infinite E-strategies & Solutions. All rights reserved.</p>
+  </footer>
+</body>
+</html>
